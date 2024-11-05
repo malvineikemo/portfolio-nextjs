@@ -45,7 +45,7 @@ const skillPage = () => {
         <FramerWrapper y={0} x={200} >
 
         <p className="font-poppins text-xl w-full text-primary max-sm:text-lg">
-          Currently i am a fresher and i have a solid understand of HTML5, CSS3, JS, TS and React, including
+          I have a solid understanding of HTML5, CSS3, JS, TS and React, including
           responsive design principles. I specialize in building web
           applications and sites using Javascript, Typescript, React, Nextjs &
           Node.
