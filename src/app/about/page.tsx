@@ -28,7 +28,7 @@ const page = () => {
    
         <FramerWrapper y={0} x={100} >
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg">
-            What can I say... I'm just like the other casual programmer that plays videogames and buy discord nitro for no f***ing reason = I am a dumb fuck 
+            What can I say... I am just like the other casual programmer that plays videogames and buy discord nitro for no f***ing reason = I am a dumb fuck 
           </p>
         </FramerWrapper>
       </div>
