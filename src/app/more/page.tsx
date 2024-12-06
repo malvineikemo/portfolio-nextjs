@@ -21,6 +21,12 @@ const morePage = () => {
         "Something Useless ",
       link: "https://harbour.eikemo.dev",
     },
+    {
+      title: "The Nonsense Club",
+      description:
+        "Another useless porject ",
+      link: "https://thenonsenseclub.xyz",
+    },
   ];
 
   return (

@@ -25,7 +25,7 @@ const educationPage = () => {
               Sveio
             </div>
             <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
-                I donæt have any degree yet :(
+                That's it
             </p>
           </FramerWrapper>
         </div>
