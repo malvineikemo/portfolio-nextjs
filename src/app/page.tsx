@@ -9,7 +9,7 @@ import FramerWrapper from "@/components/animation/FramerWrapper";
 
 export const siteConfig = {
   name: "Malvin Eikemo",
-  description: "I'm an acoustic Frontend Developer",
+  description: "Part time wizard",
   ogImage: "https://malvineikemo.vercel.app/og-image.png",
   url: "https://malvineikemo.vercel.app",
 }
