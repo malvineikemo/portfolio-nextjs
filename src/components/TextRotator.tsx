@@ -7,7 +7,7 @@ function TextRotator() {
     className="py-4  rounded-md flex flex-col justify-center items-center overflow-hidden"
   >
     <div className="font-poppins text-base sm:text-2xl [text-wrap:balance] text-gray-700">
-    I'm a
+    I&apos;m a
       <span
         className="inline-flex ml-2 flex-col h-[calc(theme(fontSize.lg)*theme(lineHeight.tight))] sm:h-[calc(theme(fontSize.3xl)*theme(lineHeight.tight))] overflow-hidden"
       >
