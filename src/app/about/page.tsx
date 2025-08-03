@@ -6,11 +6,9 @@ import { Circle, Heart, User2 } from "lucide-react";
 const page = () => {
   const items = [
     { hobby: "gaming" },
-    { hobby: "cars" },
     { hobby: "streaming" },
     { hobby: "coding" },
     { hobby: "music" },
-    { hobby: "women ;)" },
   ];
 
   return (
@@ -23,12 +21,12 @@ const page = () => {
       <div className="flex flex-col gap-3">
        
           <Heading>
-            Software Engineer And Web <br /> Developer, Based In Norway.
+            Hobby Developer <br /> Based In Norway.
           </Heading>
    
         <FramerWrapper y={0} x={100} >
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg">
-            What can I say... I am just like the other casual programmer that plays videogames and buy discord nitro for no f***ing reason
+            What can I say... I am me.
           </p>
         </FramerWrapper>
       </div>

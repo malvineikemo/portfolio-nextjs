@@ -24,7 +24,7 @@ const morePage = () => {
     {
       title: "The Nonsense Club",
       description:
-        "Another useless porject ",
+        "My minecraft server ",
       link: "https://thenonsenseclub.xyz",
     },
   ];
